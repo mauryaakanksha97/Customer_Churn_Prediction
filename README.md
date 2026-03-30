@@ -75,7 +75,7 @@ An interactive dashboard was created to analyze churn patterns and business metr
 
 ### 📷 Dashboard Preview
 
-![Dashboard](Customer_Churn_Dashboard.png)
+![Dashboard](CustomerChurnDashboard.png)
 
 
 ## 💡 Key Insights
